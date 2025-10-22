@@ -1,5 +1,7 @@
 https://dmarcian.com/spf-survey/
+
 https://dmarcian.com/dkim-inspector/
+
 https://powerdmarc.com/dmarc-record-checker/
 
 claude code와 함께 3가지 기능 구현
